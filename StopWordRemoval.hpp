@@ -1,3 +1,6 @@
+// © Luke Chemeriov, 2023
+// It is prohibited to use this library and remove this copyright notice.
+
 #include <string>
 #include <vector>
 #include <sstream>
